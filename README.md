@@ -6,9 +6,15 @@ This growing knowledge and skills are substantiated by several projects covering
 
 ## 🌐 Distributed Systems  
 Understanding of system architectures where components are spread across multiple networked computers. Knowledge in scalability, fault tolerance, and synchronization, essential for large-scale applications.
+#### Works
+- [GEduNet](https://github.com/MegaRedHand/network-simulator) is an Graphical Educational Computer Network Simulator. It's meant as an aid to students trying to understand computer networks, along with their teachers.
+- Horizontally scalable, fault-tolerant [distributed system architecture](https://github.com/pgallino/Distribuidos-TP-Grupal) for large-scale data processing in a multicomputing environment, with inter-node communication via **RabbitMQ**-based message queue middleware.
 
-## 📱 Application & API Development  
-Proficient in designing and building modern applications and RESTful APIs, applying best practices for clean architecture, maintainability, and efficient communication between services.
+## 📱 Application & API Development
+Proficient in designing and building modern applications and **RESTful APIs**, applying best practices for clean architecture, maintainability, and efficient communication between services.
+#### Works
+- [ClassConnect](https://github.com/IS2-Class-Connect), a (Google Classroom-like) full-stack educational management application that enables seamless interaction between students and teachers.
+- [Reaserch Page](https://github.com/lminervino18/researchers-page-conicet) designed to showcase the work of researchers affiliated with CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina).
 
 ## 👨🏻‍💻 Algorithms and Best Practices  
 Strong knowledge of algorithm design and analysis, focusing on efficiency and scalability. Committed to applying software development best practices such as clean code, modular design, and maintainability to ensure high-quality solutions.
