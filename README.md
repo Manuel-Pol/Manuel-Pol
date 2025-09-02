@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manuel  
+# Hi, I'm Manuel  
 
 I’m a Software Engineer graduated from the **Faculty of Engineering, University of Buenos Aires (FIUBA)**.  
 My background covers both theoretical foundations and practical applications of Software Engineering, with a focus on problem-solving and building robust, scalable systems.  
